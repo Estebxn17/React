@@ -1,0 +1,11 @@
+Si no renderiza la pagina cambia los scripts de la siguiente manera:
+
+JavaScript
+
+    <script src="app.js" type="text/babel"></script>
+
+CSS
+
+    <link rel="stylesheet" href="app.css">
+
+El problema se debe a un fallo de el editor
